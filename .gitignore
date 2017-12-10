@@ -2,3 +2,10 @@ spark-streaming/node/node_modules/
 venv/
 *.swp
 *.pyc
+.cache-main
+.cache-tests
+.project
+.settings/
+bin/
+target/
+build.properties
